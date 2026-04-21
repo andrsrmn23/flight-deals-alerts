@@ -9,4 +9,4 @@ __pycache__/
 *.sqlite
 
 # PyCharm files
-.idea/
+.idea/.DS_Store
